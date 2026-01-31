@@ -1,0 +1,14 @@
+Fields in sample 0 frame:
+AC YIELD
+DAMAGEC
+DAMAGET
+E
+EE
+IE
+PEEQ
+PEMAG
+RF
+RM
+S
+U
+UR
